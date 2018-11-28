@@ -1,4 +1,4 @@
-package entity;
+package com.concretepage.controller.entity;
 
 import java.io.Serializable;
 import javax.persistence.Column;

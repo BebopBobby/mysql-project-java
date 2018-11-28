@@ -1,6 +1,6 @@
-package dao;
+package com.concretepage.controller.dao;
 
-import entity.Article;
+import com.concretepage.controller.entity.Article;
 
 import java.util.List;
 

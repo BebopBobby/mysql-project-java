@@ -1,9 +1,9 @@
-package service;
+package com.concretepage.controller.service;
 
 import java.util.List;
 
-import dao.IArticleDAO;
-import entity.Article;
+import com.concretepage.controller.dao.IArticleDAO;
+import com.concretepage.controller.entity.Article;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

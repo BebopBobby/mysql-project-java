@@ -1,10 +1,10 @@
-package dao;
+package com.concretepage.controller.dao;
 
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-import entity.Article;
+import com.concretepage.controller.entity.Article;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 

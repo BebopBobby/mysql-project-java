@@ -1,6 +1,6 @@
-package service;
+package com.concretepage.controller.service;
 
-import entity.Article;
+import com.concretepage.controller.entity.Article;
 
 import java.util.List;
 public interface IArticleService {
